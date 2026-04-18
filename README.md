@@ -197,7 +197,7 @@ src/
 1. **Clone the repository**
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/educase-reactjs-intern-assignment.git
+git clone https://github.com/AnkitDimri4/educase-reactjs-intern-assignment.git
 cd educase-reactjs-intern-assignment
 ```
 
