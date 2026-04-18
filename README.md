@@ -257,10 +257,10 @@ Once deployed, update the **Live App** link at the top of this README with your 
 ## Author
 
 **Ankit Dimri**  
-React / Full-Stack Developer  
+Full-Stack / AI Developer  
 
-- GitHub: [https://github.com/AnkitDimri4](https://github.com/AnkitDimri4)  
-- LinkedIn: [https://linkedin.com/in/ankit-dimri-a6ab98263](https://linkedin.com/in/ankit-dimri-a6ab98263)  
-- LeetCode: [https://leetcode.com/u/user4612MW/](https://leetcode.com/u/user4612MW/)
+[![GitHub](https://img.shields.io/badge/GitHub-AnkitDimri4-black?logo=github)](https://github.com/AnkitDimri4)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ankit%20Dimri-blue?logo=linkedin)](https://linkedin.com/in/ankit-dimri-a6ab98263)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-orange?logo=leetcode)](https://leetcode.com/u/user4612MW/)
 
 ---
