@@ -16,13 +16,26 @@ The app recreates the given Adobe XD design with:
 
 ## Live URLs
 
-- **Live App (Vercel)**:  
+- **Live App (Vercel)**:
+  [https://educase-reactjs-intern-assignment.vercel.app/](https://educase-reactjs-intern-assignment.vercel.app/)
 
 - **Public Repository (GitHub)**:  
   [https://github.com/AnkitDimri4/educase-reactjs-intern-assignment](https://github.com/AnkitDimri4/educase-reactjs-intern-assignment.git)
 
 - **Design (Adobe XD)**:  
   [https://xd.adobe.com/view/b68eea25-003d-4a5d-8fdd-d463eeb20b32-e3dd](https://xd.adobe.com/view/b68eea25-003d-4a5d-8fdd-d463eeb20b32-e3dd)
+
+---
+
+## Screenshots
+
+| Home (Welcome) | Signup (Create Account) |
+| -------------- | ----------------------- |
+| <img src="https://github.com/user-attachments/assets/c6520bfd-4c96-49e7-8c73-eeae6ffe29ff" alt="Signup screen" width="420" /> | <img src="https://github.com/user-attachments/assets/c7badcd2-1c2e-4747-bb82-a66d4f4c326a" alt="Home screen" width="420" /> |
+
+| Login (Signin) | Profile (Account Settings) |
+| -------------- | -------------------------- |
+| <img src="https://github.com/user-attachments/assets/9a471e44-86e4-43bd-bb90-e36f7fbe69c7" alt="Login screen" width="420" /> | <img src="https://github.com/user-attachments/assets/679c89af-2243-461a-a09c-19b635ae0889" alt="Profile screen" width="420" /> |
 
 ---
 
